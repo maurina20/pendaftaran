@@ -177,7 +177,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-food mt-5 mt-md-0">
                         <div class="food-img">
-                            <img src="<?= base_url() ?>assets/landing/images/Rekoleksi.jpeg" class="img-fluid" alt="">
+                            <img src="<?= base_url() ?>assets/landing/images/rekoleksi.jpeg" class="img-fluid" alt="">
                         </div>
                         <div class="food-content">
                             <div class="d-flex justify-content-between">
